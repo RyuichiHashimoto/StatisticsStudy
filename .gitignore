@@ -1,0 +1,7 @@
+.cache/
+.ipython/
+.jupyter/
+.local/
+.vscode-server/
+.virtual_documents/
+.ipynb_checkpoints/
