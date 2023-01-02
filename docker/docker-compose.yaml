@@ -10,12 +10,13 @@ services:
       - "9000:8888"
 
     volumes:
-     - /home/ryuichi/staticstics:/home/work
+      - ../:/home/work
 
     environment:
       HOME: "/home/work/"
 
     restart: always
+    working_dir: /home/work
 
 
     command: jupyter-lab --no-browser --port=8888 --ip=0.0.0.0 --allow-root --NotebookApp.token='' --NotebookApp.notebook_dir='/home/work'
