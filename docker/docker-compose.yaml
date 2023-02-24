@@ -7,7 +7,7 @@ services:
      dockerfile: Dockerfile
 
     ports:
-      - "9000:8888"
+      - "9999:8888"
 
     volumes:
       - ../:/home/work
