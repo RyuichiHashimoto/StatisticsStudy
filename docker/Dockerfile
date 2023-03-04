@@ -1,5 +1,5 @@
-#FROM nvidia/cuda:11.7.0-devel-ubuntu20.04
-FROM python:3.9
+FROM nvidia/cuda:11.7.0-devel-ubuntu20.04
+#FROM python:3.9
 
 
 
@@ -17,11 +17,11 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 
 # Step1: python3.9 install
-#RUN apt update -y && \
-#apt install software-properties-common -y && \
-#add-apt-repository ppa:deadsnakes/ppa && \ 
-#apt install python3.9 -y && \
-#alias python=python3.9
+RUN apt update -y && \
+apt install software-properties-common -y && \
+add-apt-repository ppa:deadsnakes/ppa && \ 
+apt install python3.9 -y && \
+alias python=python3.9
 
 # Step2: poetry config
 #env PATH $PATH:$WORKING_DIR/.local/bin
