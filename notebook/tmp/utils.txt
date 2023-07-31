@@ -1,0 +1,590 @@
+WEDNESDAY | 8:00AM
+Wednesday Briefings Breakfast
+Track:
+Location: Bayside DE, Level 1
+WEDNESDAY | 9:00AM
+Keynote: Guardians of the AI Era: Navigating the Cybersecurity Landscape of Tomorrow
+Speaker: Maria Markstedter
+Track:  Keynote
+Format: 60-Minute Keynote
+Location: Shoreline Ballroom, Level 2
+WEDNESDAY | 10:20AM
+A Pain in the NAS: Exploiting Cloud Connectivity to PWN Your NAS
+Speaker: Noam Moshe, Speaker: Sharon Brizinov
+Tracks:  Cloud Security,  Cyber-Physical Systems & IoT
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+Chained to Hit: Discovering New Vectors to Gain Remote and Root Access in SAP Enterprise Software
+Speaker: Yvan Genuer, Speaker: Pablo Artuso
+Tracks:  Enterprise Security,  Application Security: Offense
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+Civil Cyber Defense: Use Your Resources to Defend Non-Profits as They Combat Human Trafficking and Subvert Authoritarian Regimes
+Speaker: Tiffany Rad, Speaker: Austin Shamlin
+Tracks:  Community & Career,  Privacy
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+Core Escalation: Unleashing the Power of Cross-Core Attacks on Heterogeneous System
+Speaker: Guanxing Wen
+Tracks:  Mobile,  Exploit Development
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Defender-Pretender: When Windows Defender Updates Become a Security Risk
+Speaker: Tomer Bar, Speaker: Omer Attias
+Tracks:  Platform Security,  Reverse Engineering
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Devising and Detecting Phishing: Large Language Models (GPT3, GPT4) vs. Smaller Human Models (V-Triad, Generic Emails)
+Speaker: Fredrik Heiding, Contributor: Bruce Schneier, Contributor: Arun Vishwanath, Contributor: Jeremy Bernstein
+Tracks:  Human Factors,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+Reflections on Trust in the Software Supply Chain
+Speaker: Jeremy Long
+Tracks:  Application Security: Defense,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+Smashing the State Machine: The True Potential of Web Race Conditions
+Speaker: James Kettle
+Tracks:  Application Security: Offense,  Exploit Development
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Video-Based Cryptanalysis: Recovering Cryptographic Keys from Non-compromised Devices Using Video Footage of a Device's Power LED
+Speaker: Ben Nassi, Speaker: Etay Iluz
+Tracks:  Hardware / Embedded,  Cryptography
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+WEDNESDAY | 11:00AM
+Briefings Morning Refreshment Break
+Track:
+Location: Briefings Area
+WEDNESDAY | 11:20AM
+Apple PAC, Four Years Later: Reverse Engineering the Customized Pointer Authentication Hardware Implementation on Apple M1
+Speaker: Zec Cai, Contributor: Jiaxun Zhu, Contributor: Yutian Yang, Contributor: Wenbo Shen, Contributor: Yu Wang
+Tracks:  Reverse Engineering,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+Badge of Shame: Breaking into Secure Facilities with OSDP
+Speaker: Dan Petro, Speaker: David Vargas
+Tracks:  Cyber-Physical Systems & IoT,  Cryptography
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+BingBang: Hacking Bing.com (and much more) with Azure Active Directory
+Speaker: Hillai Ben-Sasson
+Tracks:  Cloud Security,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+Fast, Ever-Evolving Defenders: The Resilience Revolution
+Speaker: Kelly Shortridge
+Track:  Defense
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Jailbreaking an Electric Vehicle in 2023 or What It Means to Hotwire Tesla's x86-Based Seat Heater
+Speaker: Christian Werling, Speaker: Niclas Kühnapfel, Contributor: Hans Niklas Jacob, Contributor: Oleg Drokin
+Tracks:  Platform Security,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+Lost Control: Breaking Hardware-Assisted Kernel Control-Flow Integrity with Page-Oriented Programming
+Speaker: Seunghun Han
+Tracks:  Exploit Development,  Platform Security
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Redacted Telecom Talk
+Speaker: Carlo Meijer, Speaker: Wouter Bokslag, Speaker: Jos Wetzels
+Tracks:  Cryptography,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Risks of AI Risk Policy: Five Lessons
+Speaker: Ram Shankar Siva Kumar, Speaker: Jonathon Penney
+Tracks:  Policy,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+Route to Bugs: Analyzing the Security of BGP Message Parsing
+Speaker: Daniel dos Santos, Speaker: Simon Guiot, Contributor: Stanislav Dashevskyi, Contributor: Amine Amri, Contributor: Oussama Kerro
+Tracks:  Network Security,  Application Security: Offense
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+WEDNESDAY | 12:00PM
+Wednesday Briefings Lunch
+Track:
+Location: Bayside DE, Level 1
+WEDNESDAY | 1:30PM
+Becoming a Dark Knight: Adversary Emulation Demonstration for ATT&CK Evaluations
+Speaker: Cat Self, Speaker: Kate Esprit
+Tracks:  Defense,  Data Forensics & Incident Response
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+dr1v3by! Broken 802.11 Wifi Driver Leads to Millions of Vulnerable Cars
+Speaker: Omri Ben Bassat
+Tracks:  Cyber-Physical Systems & IoT,  Exploit Development
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Hot Topics in Cyber and Privacy Regulation
+Panelist: Daniel Cooper, Panelist: Mike Hintze, Panelist: Leslie Katz, Moderator: Adam Shostack
+Track:  Policy
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+I Watched You Roll the Die: Unparalleled RDP Monitoring Reveal Attackers' Tradecraft
+Speaker: Olivier Bilodeau, Speaker: Andréanne Bergeron
+Tracks:  Data Forensics & Incident Response,  Defense
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+Physical Attacks Against Smartphones
+Speaker: Christopher Wade
+Tracks:  Mobile,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Single Instruction Multiple Data Leaks in Cutting-edge CPUs, AKA Downfall
+Speaker: Daniel Moghimi
+Tracks:  Hardware / Embedded,  Cloud Security
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+Small Leaks, Billions Of Dollars: Practical Cryptographic Exploits That Undermine Leading Crypto Wallets
+Speaker: Nikolaos Makriyannis, Speaker: Oren Yomtov, Speaker: Arik Galansky
+Tracks:  Cryptography,  Exploit Development
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+The Integration Cyber Security and Insurance: The Journey of Cysurance
+Speaker: Kirsten Bay
+Track:  Cyber Insurance
+Format: 40-Minute Briefings
+Location: Oceanside D, Level 2
+Weaponizing Plain Text: ANSI Escape Sequences as a Forensic Nightmare
+Speaker: STÖK .
+Tracks:  Application Security: Offense,  Application Security: Defense
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Windows Agentless C2: (Ab)using the MDM Client Stack
+Speaker: Marcos Oviedo, Speaker: Zach Wasserman
+Tracks:  Enterprise Security,  Exploit Development
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+WEDNESDAY | 2:30PM
+A Manufacturer's Post-Shipment Approach to Fend-Off IoT Malware in Home Appliances
+Speaker: Yuki Osawa, Speaker: Satoru Higuchi, Contributor: Satoshi Ito, Contributor: Manabu Nakano, Contributor: Takayuki Uchiyama
+Tracks:  Application Security: Defense,  Cyber-Physical Systems & IoT
+Format: 30-Minute Briefings
+Location: Islander HI, Level 0
+BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables
+Speaker: Zhibo Liu, Contributor: Yuanyuan Yuan, Contributor: Xiaofei Xie, Contributor: Tianxiang Li, Contributor: Wenqiang Li, Contributor: Shuai Wang
+Tracks:  Reverse Engineering,  AI, ML, & Data Science
+Format: 30-Minute Briefings
+Location: South Pacific F, Level 0
+Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities
+Speaker: Marco Squarcina, Speaker: Pedro Adão
+Tracks:  Application Security: Offense,  Application Security: Defense
+Format: 30-Minute Briefings
+Location: Islander FG, Level 0
+From Dead Data to Digestion: Extracting Windows Fibers for Your Digital Forensics Diet
+Speaker: Daniel Jary
+Tracks:  Data Forensics & Incident Response,  Reverse Engineering
+Format: 30-Minute Briefings
+Location: South Seas AB, Level 3
+HARry Parser and the Cursed Tracker: Breaking the Spell of Online Data Collection
+Speaker: Ash Edmondson, Speaker: Matt Edmondson
+Tracks:  Privacy,  Policy
+Format: 30-Minute Briefings
+Location: Oceanside C, Level 2
+Identifying and Reducing Permission Explosion in AWS: A Graph-Based and Analytical Approach
+Speaker: Pankaj Moolrajani
+Tracks:  Cloud Security,  AI, ML, & Data Science
+Format: 30-Minute Briefings
+Location: Jasmine AE, Level 3
+Leverage and Demonstrate Value with your Cyber Insurance Renewal
+Speaker: Erik Decker
+Track:  Cyber Insurance
+Format: 30-Minute Briefings
+Location: Oceanside D, Level 2
+MaginotDNS: Attacking the Boundary of DNS Caching Protection
+Speaker: Zhou Li, Contributor: Xiang Li, Contributor: Qifan Zhang
+Track:  Network Security
+Format: 30-Minute Briefings
+Location: South Seas CD, Level 3
+Second Breakfast: Implicit and Mutation-Based Serialization Vulnerabilities in .NET
+Speaker: Jonathan Birch
+Tracks:  Application Security: Offense,  Application Security: Defense
+Format: 30-Minute Briefings
+Location: Oceanside A, Level 2
+The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders
+Speaker: Willy Vasquez, Speaker: Stephen Checkoway, Speaker: Hovav Shacham
+Tracks:  Platform Security,  Exploit Development
+Format: 30-Minute Briefings
+Location: Mandalay Bay H, Level 2
+WEDNESDAY | 3:00PM
+Briefings Afternoon Refreshment Break
+Track:
+Location: Briefings Area
+WEDNESDAY | 3:20PM
+A SSLippery Slope: Unraveling the Hidden Dangers of Certificate Misuse
+Speaker: Bill Demirkapi
+Tracks:  Platform Security,  Cryptography
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+Bad io_uring: A New Era of Rooting for Android
+Speaker: Zhenpeng Lin, Contributor: Xinyu Xing, Contributor: Zhaofeng Chen, Contributor: Kang Li
+Tracks:  Exploit Development,  Mobile
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+Close Encounters of the Advanced Persistent Kind: Leveraging Rootkits for Post-Exploitation
+Speaker: Ruben Boonen, Speaker: Valentina Palmiotti
+Tracks:  Malware,  Platform Security
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Dismantling DDoS - Lessons in Scaling
+Speaker: Elliott Peterson, Speaker: Cameron Schroeder
+Tracks:  Defense,  Network Security
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+Diversity Microtalks: Perspectives on Creating Change
+Speaker: Andy Ellis, Speaker: Meghan Jacquot, Speaker: Olivia Rose, Speaker: Aastha Sahni, Moderator: Sherri Davidoff
+Track:  Community & Career
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Exploiting OPC-UA in Every Possible Way: Practical Attacks Against Modern OPC-UA Architectures
+Speaker: Sharon Brizinov, Speaker: Noam Moshe
+Tracks:  Cyber-Physical Systems & IoT,  Network Security
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+Nothing but Net: Leveraging macOS's Networking Frameworks to Heuristically Detect Malware
+Speaker: Patrick Wardle
+Tracks:  Network Security,  Malware
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Over the Air, Under the Radar: Attacking and Securing the Pixel Modem
+Speaker: Farzan Karimi, Speaker: Xuan Xing, Speaker: Xiling Gong, Speaker: Eugene Rodionov
+Tracks:  Mobile,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+Shuffle Up and Deal: Analyzing the Security of Automated Card Shufflers
+Speaker: Joseph Tartaro, Speaker: Enrique Nissim, Contributor: Ethan Shackelford
+Tracks:  Hardware / Embedded,  Reverse Engineering
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+Why Cyber Insurance Should be Your SOC's New Best Friend
+Speaker: Catherine Lyle
+Track:  Cyber Insurance
+Format: 40-Minute Briefings
+Location: Oceanside D, Level 2
+WEDNESDAY | 4:20PM
+Bridging Cyber and Insurance
+Speaker: John Caruthers
+Track:  Cyber Insurance
+Format: 40-Minute Briefings
+Location: Oceanside D, Level 2
+Keynote: Phoenix Soaring: What We Can Learn from Ukraine's Cyber Defenders about Building a More Resilient Future
+Speaker: Jen Easterly, Speaker: Victor Zhora
+Track:  Keynote
+Format: 40-Minute Keynote
+Location: Shoreline Ballroom, Level 2
+THURSDAY | 8:00AM
+Thursday Briefings Breakfast
+Track:
+Location: Bayside DE, Level 1
+THURSDAY | 9:00AM
+Keynote: Acting National Cyber Director Kemba Walden Discusses the National Cybersecurity Strategy and Workforce Efforts
+Speaker: Kemba Walden
+Track:  Keynote
+Format: 60-Minute Keynote
+Location: Shoreline Ballroom, Level 2
+THURSDAY | 10:20AM
+AI Assisted Decision Making of Security Review Needs for New Features
+Speaker: Mrityunjay Gautam, Speaker: Pavan Kolachoor
+Tracks:  Application Security: Defense,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+All You Need is Guest
+Speaker: Michael Bargury
+Tracks:  Cloud Security,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+Diving into Windows Remote Access Service for Pre-Auth Bugs
+Speaker: Yuki Chen
+Tracks:  Network Security,  Exploit Development
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+EDR = Erase Data Remotely, By Cooking An Unforgettable (Byte) Signature Dish
+Speaker: Tomer Bar, Speaker: Shmuel Cohen
+Tracks:  Enterprise Security,  Platform Security
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Entrepreneur's Dilemma: Managing Growth and Dedication to Product Quality
+Speaker: Mario Vuksan
+Track:  Entrepreneur
+Format: 40-Minute Briefings
+Location: Oceanside D, Level 2
+IRonMAN: InterpRetable Incident Inspector Based ON Large-Scale Language Model and Association miNing
+Speaker: Sian-Yao Huang, Speaker: Cheng-Lin Yang, Speaker: Chung-Kuan Chen
+Track:  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+Making and Breaking NSA's Codebreaker Challenge
+Speaker: Rita Doerr
+Track:  Community & Career
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+Oven Repair (The Hardware Hacking Way)
+Speaker: Colin O'Flynn
+Tracks:  Hardware / Embedded,  Cyber-Physical Systems & IoT
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Unsafe At Any Speed: CISA's Plan to Foster Tech Ecosystem Security
+Speaker: Bob Lord, Speaker: Jack Cable
+Tracks:  Policy,  Application Security: Defense
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+What Does an LLM-Powered Threat Intelligence Program Look Like?
+Speaker: John Miller, Speaker: Ron Graf
+Tracks:  Defense,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+THURSDAY | 11:00AM
+Briefings Morning Refreshment Break
+Track:
+Location: Briefings Area
+THURSDAY | 11:20AM
+Apple's Predicament: NSPredicate Exploits on iOS and macOS
+Speaker: Austin Emmitt
+Tracks:  Exploit Development,  Application Security: Offense
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+First Party Problems in a Zero Trust World: The Accidental Discovery of a New Vulnerability in Google's OAuth Implementation
+Speaker: Brian Smith-Sweeney
+Tracks:  Enterprise Security,  Cloud Security
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+How NOT to Train Your Hack Bot: Dos and Don'ts of Building Offensive GPTs
+Speaker: Ariel Herbert-Voss, Speaker: Shane Caldwell
+Tracks:  AI, ML, & Data Science,  Application Security: Offense
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+Idea to Realization: Cybersecurity Entrepreneurship
+Speaker: Jon Oberheide
+Track:  Entrepreneur
+Format: 40-Minute Briefings
+Location: Oceanside D, Level 2
+Lemons and Liability: Cyber Warranties as an Experiment in Software Regulation
+Speaker: Daniel Woods
+Tracks:  Policy,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+Lessons Learned from the KA-SAT Cyberattack: Response, Mitigation and Information Sharing
+Speaker: Mark Colaluca, Speaker: Kristina Walter, Contributor: Craig Miller, Contributor: Nick Saunders, Contributor: Michael Sutton
+Tracks:  Data Forensics & Incident Response,  Network Security
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Mac-ing Sense of the 3CX Supply Chain Attack: Analysis of the macOS Payloads
+Speaker: Patrick Wardle
+Tracks:  Malware,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Me and My Evil Digital Twin: The Psychology of Human Exploitation by AI Assistants
+Speaker: Matthew Canham, Speaker: Ben Sawyer
+Tracks:  Human Factors,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+Three New Attacks Against JSON Web Tokens
+Speaker: Tom Tervoort
+Tracks:  Cryptography,  Application Security: Offense
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Uncovering Azure's Silent Threats: A Journey into Cloud Vulnerabilities
+Speaker: Nitesh Surana, Contributor: Magno Logan, Contributor: David Fiser
+Tracks:  Cloud Security,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+THURSDAY | 12:00PM
+Thursday Briefings Lunch
+Track:
+Location: Bayside DE, Level 1
+THURSDAY | 1:30PM
+Entrepreneur Journeys: What it Takes to Start a Startup
+Speaker: Varun Badhwar, Speaker: Umaimah Khan, Speaker: Travis McPeak, Speaker: Eitan Worcel, Speaker: Caleb Sima
+Track:  Entrepreneur
+Location: Oceanside D, Level 2
+Evasive Maneuvers: Trends in Phishing Evasion & Anti-Evasion
+Speaker: Din Serussi
+Tracks:  Enterprise Security,  Data Forensics & Incident Response
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+Forward Focus: Perspectives on AI, Hype, and Security
+Moderator: Nathan Hamiel, Speaker: Ariel Herbert-Voss
+Track:  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Houston, We Have a Problem: Analyzing the Security of Low Earth Orbit Satellites
+Speaker: Johannes Willbold
+Tracks:  Cyber-Physical Systems & IoT,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Input Output + Syslog (iO+S): Obtaining Data From Locked iOS Devices via Live Monitoring
+Speaker: Nicholas Dubois, Speaker: Jessica Hyde
+Tracks:  Data Forensics & Incident Response,  Mobile
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+Lifting the Fog of War - Monitoring, Identifying and Mitigating MS-RPC Based Threats
+Speaker: Stiv Kupchik
+Tracks:  Network Security,  Data Forensics & Incident Response
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+npm and Sigstore: Provenance Comes to the World's Largest OSS Ecosystem
+Speaker: Trevor Rosen, Speaker: Zach Steindler
+Tracks:  Defense,  Application Security: Defense
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+One Drive, Double Agent: Clouded OneDrive Turns Sides
+Speaker: Or Yair
+Tracks:  Malware,  Cloud Security
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Synthetic Trust: Exploiting Biases at Scale
+Speaker: Esty Scheiner, Speaker: Bivu Bivu
+Tracks:  Human Factors,  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+TSSHOCK: Breaking MPC Wallets and Digital Custodians for $BILLION$ Profit
+Contributor: Duy Hieu Nguyen, Speaker: Anh Khoa Nguyen, Speaker: Huu Giap Nguyen, Contributor: Thanh Nguyen, Contributor: Anh Quynh Nguyen
+Tracks:  Cryptography,  Application Security: Offense
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+THURSDAY | 2:30PM
+A Q&A with a16z's Zane Lackey: Unlocking the Secrets of Cybersecurity Entrepreneurship
+Speaker: Zane Lackey
+Track:  Entrepreneur
+Format: 30-Minute Briefings
+Location: Oceanside D, Level 2
+Dive into Apple UserFS (Userspace Filesystem)
+Speaker: Zuozhi Fan
+Tracks:  Mobile,  Platform Security
+Format: 30-Minute Briefings
+Location: South Seas CD, Level 3
+Does Public Disclosure of Vulnerabilities Affect Hacker Participation in Bug Bounty Programs?
+Speaker: Ali Ahmed, Contributor: Brian Lee, Contributor: Amit Deokar
+Tracks:  Application Security: Defense,  Enterprise Security
+Format: 30-Minute Briefings
+Location: Islander FG, Level 0
+Endoscope: Unpacking Android Apps with VM-Based Obfuscation
+Speaker: Fan Wu
+Tracks:  Malware,  Mobile
+Format: 30-Minute Briefings
+Location: Jasmine AE, Level 3
+Evading Logging in the Cloud: Bypassing AWS CloudTrail
+Speaker: Nick Frichette
+Tracks:  Cloud Security,  Data Forensics & Incident Response
+Format: 30-Minute Briefings
+Location: South Pacific F, Level 0
+Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes
+Speaker: Yueqi Chen, Speaker: Minghao Lin, Contributor: Chaoyang Lin, Contributor: Jiahe Wang, Contributor: Zicheng Wang, Contributor: Minghang Shen
+Tracks:  Hardware / Embedded,  Exploit Development
+Format: 30-Minute Briefings
+Location: South Seas AB, Level 3
+Mirage: Cyber Deception Against Autonomous Cyber Attacks
+Speaker: Michael Kouremetis, Speaker: Ron Alford, Speaker: Dean Lawrence
+Tracks:  AI, ML, & Data Science,  Defense
+Format: 30-Minute Briefings
+Location: Oceanside C, Level 2
+mTLS: When Certificate Authentication is Done Wrong
+Speaker: Michael Stepankin
+Tracks:  Application Security: Offense,  Network Security
+Format: 30-Minute Briefings
+Location: Oceanside A, Level 2
+Protecting the CISO: A Legal Journey
+Speaker: Nick Merker, Speaker: Stephen Reynolds
+Tracks:  Policy,  Data Forensics & Incident Response
+Format: 30-Minute Briefings
+Location: Islander HI, Level 0
+When a Zero Day and Access Keys Collide in the Cloud: Responding to the SugarCRM 0-Day Vulnerability
+Speaker: Margaret Zimmermann
+Tracks:  Data Forensics & Incident Response,  Cloud Security
+Format: 30-Minute Briefings
+Location: Mandalay Bay H, Level 2
+THURSDAY | 3:00PM
+Briefings Afternoon Refreshment Break
+Track:
+Location: Briefings Area
+THURSDAY | 3:20PM
+CodeQL: Also a Powerful Binary Analysis Engine
+Speaker: Haiquan Zhang, Speaker: Rhettxie Rhettxie
+Tracks:  Reverse Engineering,  Cloud Security
+Format: 40-Minute Briefings
+Location: Jasmine AE, Level 3
+I Was Tasked With Enrolling Millions of Developers in 2FA - Here's What Happened
+Speaker: John Swanson
+Tracks:  Human Factors,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+Know Thy Enemy: The Taxonomies That Meta Uses to Map the Offensive Privacy Space
+Speaker: David Renardy, Speaker: Zach Miller
+Track:  Privacy
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Low-level RASP: Protecting Applications Implemented in High-level Programming Languages
+Speaker: Zhuonan Li, Contributor: Qi Li , Contributor: Zimin Lin
+Tracks:  Application Security: Defense,  Enterprise Security
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+MoustachedBouncer: AitM-Powered Surveillance via Belarus ISPs
+Speaker: Matthieu Faou
+Tracks:  Malware,  Reverse Engineering
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Poisoning Web-Scale Training Datasets is Practical
+Speaker: Will Pearce
+Track:  AI, ML, & Data Science
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+Seeing Through the Invisible: Radiation Spikes Detected in Chernobyl During the Russian Invasion Show Possible Evidence of Fabrication
+Speaker: Ruben Santamarta
+Tracks:  Data Forensics & Incident Response,  Cyber-Physical Systems & IoT
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+The Hat Trick: Exploit Chrome Twice from Runtime to JIT
+Speaker: Nan Wang, Speaker: Zhenghang Xiao
+Tracks:  Exploit Development,  Platform Security
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
+The Living Dead: Hacking Mobile Face Recognition SDKs with Non-Deepfake Attacks
+Speaker: Xianbo Wang, Speaker: Kaixuan Luo, Speaker: Wing Cheong Lau
+Tracks:  Application Security: Offense,  Mobile
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+THURSDAY | 4:20PM
+CoDe16; 16 Zero-Day Vulnerabilities Affecting CODESYS Framework Leading to Remote Code Execution on Millions of Industrial Devices Across Industries
+Speaker: Vladimir Eliezer Tokarev
+Tracks:  Cyber-Physical Systems & IoT,  Hardware / Embedded
+Format: 40-Minute Briefings
+Location: Mandalay Bay H, Level 2
+Compromising LLMs: The Advent of AI Malware
+Speaker: Kai Greshake, Speaker: Christoph Endres, Speaker: Mario Fritz, Speaker: Shailesh Mishra, Speaker: Sahar Abdelnabi
+Tracks:  AI, ML, & Data Science,  Malware
+Format: 40-Minute Briefings
+Location: Oceanside C, Level 2
+Kids in the Ad Fraud Crosshair: Why International Threat Actors are Targeting Children to Steal Money from Banks and Major Corporations
+Speaker: Zach Edwards
+Track:  Human Factors
+Format: 40-Minute Briefings
+Location: South Seas AB, Level 3
+Make KSMA Great Again: The Art of Rooting Android Devices by GPU MMU Features
+Speaker: Yong Wang
+Tracks:  Exploit Development,  Platform Security
+Format: 40-Minute Briefings
+Location: South Seas CD, Level 3
+ODDFuzz: Hunting Java Deserialization Gadget Chains via Structure-Aware Directed Greybox Fuzzing
+Speaker: Biao He, Speaker: Haowen Mu, Contributor: Yu Ouyang
+Track:  Application Security: Offense
+Format: 40-Minute Briefings
+Location: Islander FG, Level 0
+The 9th Annual Black Hat USA Network Operations Center (NOC) Report
+Speaker: Neil Wyler, Speaker: Bart Stump
+Tracks:  Network Security,  Application Security: Defense
+Format: 40-Minute Briefings
+Location: Oceanside A, Level 2
+The Yandex Leak: How a Russian Search Giant Uses Consumer Data
+Speaker: Kaileigh McCrea
+Track:  Privacy
+Format: 40-Minute Briefings
+Location: Islander HI, Level 0
+Zero-Touch-Pwn: Abusing Zoom's Zero Touch Provisioning for Remote Attacks on Desk Phones
+Speaker: Moritz Abrell
+Tracks:  Reverse Engineering,  Exploit Development
+Format: 40-Minute Briefings
+Location: South Pacific F, Level 0
